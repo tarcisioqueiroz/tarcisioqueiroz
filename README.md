@@ -8,6 +8,7 @@ Me chamo Tarcisio Queiroz, tenho 24 anos e sou natural de Pernambuco. Atualmente
 
 ### 🤖 Linguagens e Tecnologias
 <br/>
+<p>
 <img 
     align="left" 
     alt="HTML"
@@ -128,6 +129,7 @@ Me chamo Tarcisio Queiroz, tenho 24 anos e sou natural de Pernambuco. Atualmente
     style="padding-right: 10px;" 
     src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg
 />
+</p>
 <br/>
 <br/>
 
