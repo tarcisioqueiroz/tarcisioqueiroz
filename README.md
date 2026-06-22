@@ -1,8 +1,12 @@
 # Tarcisio Queiroz
 
-**`Desenvolvedor Backend Java`**
+**`Backend Java Developer | Spring Boot | APIs REST | Database`** 
 
-Me chamo Tarcisio Queiroz, tenho 24 anos e sou natural de Pernambuco. Atualmente, estou cursando Sistemas de Informação na Universidade Federal Rural de Pernambuco. Encontrei na tecnologia uma forma de resolver problemas aplicando minha criatividade, abstraindo os problemas e aplicando soluções rápidas e efetivas. Nessa jornada compartilho o conhecimento que venho obtendo, me siga no linkedin "[Tarcisio Queiroz on Linkedin](https://www.linkedin.com/in/tarcísio-queiroz-568348257?utm_source=share_via&utm_content=profile&utm_medium=member_ios)".
+Olá! Sou Tarcisio Queiroz, estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE) e desenvolvedor com foco em Backend Java.
+
+Tenho interesse em arquitetura de software, APIs REST, bancos de dados e desenvolvimento de soluções escaláveis. Busco constantemente evoluir minhas habilidades por meio de projetos práticos, participação em hackathons, estudos contínuos e contato com novas tecnologias.
+
+Além do conhecimento técnico, minha experiência profissional na área comercial me proporcionou uma visão ampla sobre processos empresariais, vendas e cadeia de suprimentos, permitindo compreender melhor como a tecnologia pode gerar valor para negócios e pessoas.
 
 ---
 
@@ -135,7 +139,57 @@ Me chamo Tarcisio Queiroz, tenho 24 anos e sou natural de Pernambuco. Atualmente
 
 ## Sobre mim
 
-### 🚀 Experiências em Hackathons
+### 🎓 Formação Acadêmica
 
-- 3º Lugar no Startup Way UPE e Federais Club 2021.
-- Trabalho em equipe multidisciplinar com foco em inovação e validação de ideias.
+**Sistemas de Informação**
+Universidade Federal Rural de Pernambuco (UFRPE)\
+Previsão de conclusão: 2028
+
+
+### 💼 Experiência Profissional
+
+Atualmente atuo na área comercial, desenvolvendo conhecimentos relacionados a:
+
+- Vendas e relacionamento com clientes
+- Cadeia de suprimentos
+- Processos operacionais
+- Negociação
+- Fluxos empresariais
+
+Essa experiência fortaleceu minha capacidade analítica e me permitiu compreender como soluções tecnológicas impactam diretamente os resultados de uma organização.
+
+### 🏆 Hackathons e Inovação
+
+Participo de iniciativas de inovação e hackathons buscando desenvolver soluções para problemas reais em equipes multidisciplinares.
+
+Essas experiências contribuíram para o desenvolvimento de:
+
+* Trabalho em equipe
+* Comunicação
+* Resolução de problemas
+* Gestão de tempo
+* Desenvolvimento de produtos sob pressão
+
+#### Participações
+
+- 15º lugar no Startup Way UPE e Federais Club 2020.
+- 3º lugar no Startup Way UPE e Federais Club 2021.
+### 🌎 Além da tecnologia
+
+- Estudando inglês com professores nativos, buscando evolução principalmente em conversação e comunicação profissional.
+- Interesse em inovação, desenvolvimento de software e aprendizado contínuo.
+
+
+### 🎯 Próximos objetivos
+
+Nos próximos anos pretendo me desenvolver como Backend Developer, aprofundando conhecimentos em:
+
+- Cloud;
+- Microsserviços;
+- Arquitetura de software;
+
+
+### 📫 Onde me encontrar
+
+LinkedIn: [Tarcisio Queiroz on Linkedin](https://www.linkedin.com/in/tarcísio-queiroz-568348257?utm_source=share_via&utm_content=profile&utm_medium=member_ios)<br/>
+Email: tarcisio.queiroz@ufrpe.br
