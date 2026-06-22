@@ -8,7 +8,7 @@ Me chamo Tarcisio Queiroz, tenho 24 anos e sou natural de Pernambuco. Atualmente
 
 ### 🤖 Linguagens e Tecnologias
 <br/>
-<p>
+<p sytle="text-align: center;">
 <img 
     align="left" 
     alt="HTML"
