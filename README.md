@@ -1,8 +1,8 @@
 # Tarcisio Queiroz
 
-**`Backend Java Developer | Spring Boot | APIs REST | Database`** 
+**`Full Stack Mobile Developer | React Native | Go Lang | APIs REST | Database`** 
 
-Olá! Sou Tarcisio Queiroz, estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE) e desenvolvedor com foco em Backend Java.
+Olá! Sou Tarcisio Queiroz, estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE) e desenvolvedor com foco em desenvolvimento mobile.
 
 Tenho interesse em arquitetura de software, APIs REST, bancos de dados e desenvolvimento de soluções escaláveis. Busco constantemente evoluir minhas habilidades por meio de projetos práticos, participação em hackathons, estudos contínuos e contato com novas tecnologias.
 
@@ -55,6 +55,22 @@ Além do conhecimento técnico, minha experiência profissional na área comerci
 />
 <img 
     align="left" 
+    alt="JAVASCRIPT" 
+    title="JAVASCRIPT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JAVASCRIPT" 
+    title="JAVASCRIPT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -63,11 +79,11 @@ Além do conhecimento técnico, minha experiência profissional na área comerci
 />
 <img 
     align="left" 
-    alt="SPRINGBOOT" 
-    title="SPRINGBOOT"
+    alt="REACT-NATIVE" 
+    title="REACT-NATIVE"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"    
 />
 <img 
     align="left" 
