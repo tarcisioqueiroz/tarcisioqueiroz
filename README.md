@@ -2,11 +2,11 @@
 
 **`Full Stack Mobile Developer | React Native | Go Lang | APIs REST | Database`** 
 
-Olá! Sou Tarcisio Queiroz, estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE) e desenvolvedor com foco em desenvolvimento mobile.
+Sou estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE) e desenvolvedor com foco em desenvolvimento mobile e backend.
 
-Tenho interesse em arquitetura de software, APIs REST, bancos de dados e desenvolvimento de soluções escaláveis. Busco constantemente evoluir minhas habilidades por meio de projetos práticos, participação em hackathons, estudos contínuos e contato com novas tecnologias.
+Tenho interesse em arquitetura de software, desenvolvimento de APIs REST, bancos de dados e construção de soluções escaláveis. Gosto de transformar problemas reais em soluções de software bem estruturadas, buscando evoluir continuamente por meio de projetos práticos, hackathons, estudos e experimentação com novas tecnologias.
 
-Além do conhecimento técnico, minha experiência profissional na área comercial me proporcionou uma visão ampla sobre processos empresariais, vendas e cadeia de suprimentos, permitindo compreender melhor como a tecnologia pode gerar valor para negócios e pessoas.
+Além da experiência técnica, minha trajetória profissional na área comercial me proporcionou uma visão prática sobre processos empresariais, vendas e cadeia de suprimentos. Essa experiência me ajuda a enxergar o desenvolvimento de software não apenas pelo aspecto técnico, mas também pela capacidade de resolver problemas, otimizar processos e gerar valor para negócios e pessoas.
 
 ---
 
