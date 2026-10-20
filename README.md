@@ -13,7 +13,7 @@ Estudante de Sistemas de Informação na UFRPE, buscando **estágio ou vaga jún
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Construo apps mobile com **React Native, Expo e TypeScript**, com atenção a código limpo, organização de projeto e revisão de código. Hoje estou começando a estudar **Go** para entender o outro lado do app: APIs, banco de dados e backend.
 
@@ -21,7 +21,7 @@ Antes de programar, eu já trabalhava por dentro de uma grande distribuidora de 
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### 💳 Recurrly
 ![Status](https://img.shields.io/badge/status-em_desenvolvimento-FFB020?style=flat-square)
@@ -57,7 +57,7 @@ Conceito de marketplace que conecta **agricultores familiares diretamente ao con
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Mobile (foco principal)**
 
@@ -86,7 +86,7 @@ Conceito de marketplace que conecta **agricultores familiares diretamente ao con
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
 
@@ -99,7 +99,7 @@ Conceito de marketplace que conecta **agricultores familiares diretamente ao con
 
 ---
 
-## 💼 Além do código
+## Além do código
 
 Trabalho na área comercial de uma grande distribuidora de eletroeletrônicos. Lá desenvolvi:
 
@@ -109,7 +109,7 @@ Trabalho na área comercial de uma grande distribuidora de eletroeletrônicos. L
 
 ---
 
-## 🎓 Formação e idiomas
+## Formação e idiomas
 
 - **Sistemas de Informação** · UFRPE · conclusão prevista em 2028
 - **Português**: nativo
@@ -117,7 +117,7 @@ Trabalho na área comercial de uma grande distribuidora de eletroeletrônicos. L
 
 ---
 
-## 🎯 Agora estou
+## Agora estou
 
 - 📱 Aprofundando React Native: arquitetura de apps, testes e performance
 - 🐹 Estudando Go para construir APIs REST
