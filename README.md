@@ -1,211 +1,123 @@
-# Tarcisio Queiroz
+<div align="center">
 
-**`Full Stack Mobile Developer | React Native | Go Lang | APIs REST | Database`** 
+# Olá, eu sou o Tarcisio 👋
 
-Sou estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE) e desenvolvedor com foco em desenvolvimento mobile e backend.
+### Desenvolvedor Mobile · React Native
 
-Tenho interesse em arquitetura de software, desenvolvimento de APIs REST, bancos de dados e construção de soluções escaláveis. Gosto de transformar problemas reais em soluções de software bem estruturadas, buscando evoluir continuamente por meio de projetos práticos, hackathons, estudos e experimentação com novas tecnologias.
+Estudante de Sistemas de Informação na UFRPE, buscando **estágio ou vaga júnior** em desenvolvimento mobile.
 
-Além da experiência técnica, minha trajetória profissional na área comercial me proporcionou uma visão prática sobre processos empresariais, vendas e cadeia de suprimentos. Essa experiência me ajuda a enxergar o desenvolvimento de software não apenas pelo aspecto técnico, mas também pela capacidade de resolver problemas, otimizar processos e gerar valor para negócios e pessoas.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarc%C3%ADsio-queiroz-568348257)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarcisio.queiroz@ufrpe.br)
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<br/>
-<p sytle="text-align: center;">
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JAVASCRIPT" 
-    title="JAVASCRIPT"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JAVASCRIPT" 
-    title="JAVASCRIPT"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="REACT-NATIVE" 
-    title="REACT-NATIVE"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"    
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="POSTRGRESLQ" 
-    title="POSTRGRESLQ"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg
-/>
-<img 
-    align="left" 
-    alt="MYSQL" 
-    title="MYSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg
-/>
-<img 
-    align="left" 
-    alt="FIGMA" 
-    title="FIGMA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg
-/>
-<img 
-    align="left" 
-    alt="PHOTOSHOP" 
-    title="PHOTOSHOP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg
-/>
-<img 
-    align="left" 
-    alt="illustrator" 
-    title="illustrator"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg
-/>
-<img 
-    align="left" 
-    alt="PREMIERE" 
-    title="PREMIERE"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg
-/>
-</p>
-<br/>
-<br/>
+## 👨‍💻 Sobre mim
 
-## Sobre mim
+Construo apps mobile com **React Native, Expo e TypeScript**, com atenção a código limpo, organização de projeto e revisão de código. Hoje estou começando a estudar **Go** para entender o outro lado do app: APIs, banco de dados e backend.
 
-### 🎓 Formação Acadêmica
+Antes de programar, eu já trabalhava por dentro de uma grande distribuidora de eletroeletrônicos. Isso me deu uma visão de como sistemas sustentam (ou travam) a operação de uma empresa, e é com esse olhar que penso a experiência de quem usa o que eu construo.
 
-**Sistemas de Informação**
-Universidade Federal Rural de Pernambuco (UFRPE)\
-Previsão de conclusão: 2028
+---
 
+## 🚀 Projetos em destaque
 
-### 💼 Experiência Profissional
+### 💳 Recurrly
+![Status](https://img.shields.io/badge/status-em_desenvolvimento-FFB020?style=flat-square)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Atualmente atuo na área comercial, desenvolvendo conhecimentos relacionados a:
+App de **gerenciamento de assinaturas**: reúne num só lugar os serviços recorrentes do usuário, quanto cada um custa e quais renovações estão chegando.
 
-- Vendas e relacionamento com clientes
-- Cadeia de suprimentos
-- Processos operacionais
-- Negociação
-- Fluxos empresariais
+- Navegação com **Expo Router**: fluxo de autenticação, onboarding, abas e tela de detalhes por rota dinâmica
+- Estilização com **NativeWind** (Tailwind CSS no React Native)
+- Componentes reutilizáveis e tipagem com **TypeScript**
+- Pull requests revisados com **CodeRabbit** (code review automatizado com IA)
 
-Essa experiência fortaleceu minha capacidade analítica e me permitiu compreender como soluções tecnológicas impactam diretamente os resultados de uma organização.
+[🔗 Ver repositório](https://github.com/tarcisioqueiroz/Recurrly-app)
 
-### 🏆 Hackathons e Inovação
+### 🥗 macroZone
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-Participo de iniciativas de inovação e hackathons buscando desenvolver soluções para problemas reais em equipes multidisciplinares.
+App para **registrar refeições e acompanhar calorias e macronutrientes** (proteínas, carboidratos e gorduras) do dia.
 
-Essas experiências contribuíram para o desenvolvimento de:
+- Cadastro, listagem e exclusão de refeições, com validação do formulário
+- Dados persistidos no aparelho com **AsyncStorage**, em uma camada de armazenamento separada da interface
+- Cálculo automático dos totais de macros exibido em cards
 
-* Trabalho em equipe
-* Comunicação
-* Resolução de problemas
-* Gestão de tempo
-* Desenvolvimento de produtos sob pressão
+[🔗 Ver repositório](https://github.com/tarcisioqueiroz/macroZone-app)
 
-#### Participações
+<sub>Os apps ainda não estão publicados nas lojas; rodam via Expo.</sub>
 
-- 15º lugar no Startup Way UPE e Federais Club 2020.
-- 3º lugar no Startup Way UPE e Federais Club 2021.
-### 🌎 Além da tecnologia
+### 🌱 Agronovelty · 3º lugar no Startup Way 2021
+Conceito de marketplace que conecta **agricultores familiares diretamente ao consumidor final**, eliminando intermediários da cadeia de distribuição que encarecem o produto e reduzem a margem do produtor. Projeto desenvolvido em fase de ideação, em equipe multidisciplinar.
 
-- Estudando inglês com professores nativos, buscando evolução principalmente em conversação e comunicação profissional.
-- Interesse em inovação, desenvolvimento de software e aprendizado contínuo.
+---
 
+## 🛠️ Stack
 
-### 🎯 Próximos objetivos
+**Mobile (foco principal)**
 
-Nos próximos anos pretendo me desenvolver como Backend Developer, aprofundando conhecimentos em:
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-- Cloud;
-- Microsserviços;
-- Arquitetura de software;
+**Backend e dados**
 
+![Go](https://img.shields.io/badge/Go_(estudando)-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 📫 Onde me encontrar
+**Ferramentas**
 
-LinkedIn: [Tarcisio Queiroz on Linkedin](https://www.linkedin.com/in/tarcísio-queiroz-568348257?utm_source=share_via&utm_content=profile&utm_medium=member_ios)<br/>
-Email: tarcisio.queiroz@ufrpe.br
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF570A?style=flat-square)
+
+<sub>Com Java e Spring Boot já construí APIs REST e CRUDs com JPA (veja os repositórios). Também já usei Python e PHP em projetos acadêmicos.</sub>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tarcisioqueiroz&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisioqueiroz&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas" />
+
+<img src="https://streak-stats.demolab.com?user=tarcisioqueiroz&hide_border=true&theme=transparent" alt="Sequência de contribuições" />
+
+</div>
+
+---
+
+## 💼 Além do código
+
+Trabalho na área comercial de uma grande distribuidora de eletroeletrônicos. Lá desenvolvi:
+
+- **Visão sistêmica**: entendo como vendas, estoque e cadeia de suprimentos se conectam numa operação de grande porte.
+- **Melhoria de processos**: contribuí com ideias que melhoraram o fluxo de processos dentro do sistema da empresa.
+- **Olhar de usuário**: sei, na prática, o que torna um sistema fácil ou difícil de usar no dia a dia, o que levo para o design de experiência dos meus apps.
+
+---
+
+## 🎓 Formação e idiomas
+
+- **Sistemas de Informação** · UFRPE · conclusão prevista em 2028
+- **Português**: nativo
+- **Inglês**: boa compreensão, conversação em desenvolvimento (aulas com professores nativos)
+
+---
+
+## 🎯 Agora estou
+
+- 📱 Aprofundando React Native: arquitetura de apps, testes e performance
+- 🐹 Estudando Go para construir APIs REST
+- 🔍 Buscando oportunidade de estágio ou vaga júnior em mobile
