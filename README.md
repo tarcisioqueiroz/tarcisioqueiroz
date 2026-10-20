@@ -30,7 +30,8 @@ Antes de programar, eu já trabalhava por dentro de uma grande distribuidora de 
 
 App de **gerenciamento de assinaturas**: reúne num só lugar os serviços recorrentes do usuário, quanto cada um custa e quais renovações estão chegando.
 
-- Navegação com **Expo Router**: fluxo de autenticação, onboarding, abas e tela de detalhes por rota dinâmica
+- Tela inicial com saldo, carrossel de próximas renovações e cards de assinatura expansíveis
+- Rotas estruturadas com **Expo Router**: grupos de autenticação e abas, rota dinâmica e rotas tipadas
 - Estilização com **NativeWind** (Tailwind CSS no React Native)
 - Componentes reutilizáveis e tipagem com **TypeScript**
 - Pull requests revisados com **CodeRabbit** (code review automatizado com IA)
