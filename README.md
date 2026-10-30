@@ -15,7 +15,7 @@ Estudante de Sistemas de Informação na UFRPE, buscando **estágio ou vaga jún
 
 ## Sobre mim
 
-Construo apps mobile com **React Native, Expo e TypeScript**, com atenção a código limpo, organização de projeto e revisão de código. Hoje estou começando a estudar **Go** para entender o outro lado do app: APIs, banco de dados e backend.
+Construo apps mobile com **React Native, Expo e TypeScript**, com atenção a código limpo, organização de projeto e revisão de código. Também estou aprendendo **Go** na prática, construindo APIs REST para entender o outro lado do app: backend e banco de dados.
 
 Antes de programar, eu já trabalhava por dentro de uma grande distribuidora de eletroeletrônicos. Isso me deu uma visão de como sistemas sustentam (ou travam) a operação de uma empresa, e é com esse olhar que penso a experiência de quem usa o que eu construo.
 
@@ -50,6 +50,21 @@ App para **registrar refeições e acompanhar calorias e macronutrientes** (prot
 
 [🔗 Ver repositório](https://github.com/tarcisioqueiroz/macroZone-app)
 
+### ✅ smart-todo-app
+![Status](https://img.shields.io/badge/status-em_desenvolvimento-FFB020?style=flat-square)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+App de tarefas multiplataforma cuja proposta é criar e gerenciar atividades com **comandos em linguagem natural**, com integração de IA. Monorepo com backend em Go e app em React Native.
+
+- API REST em **Go** usando só a biblioteca padrão: roteamento com `net/http`, logs estruturados com `slog` e CRUD completo de tarefas
+- Validação de entrada e respostas de erro padronizadas em JSON
+- Armazenamento em memória com acesso concorrente seguro (`sync.Mutex`) e PostgreSQL já preparado via **Docker Compose**
+- Desenvolvimento por pull requests, com **code review automatizado por IA no GitHub Actions**
+
+[🔗 Ver repositório](https://github.com/tarcisioqueiroz/smart-todo-app)
+
 <sub>Os apps ainda não estão publicados nas lojas; rodam via Expo.</sub>
 
 ### 🌱 Agronovelty · 3º lugar no Startup Way 2021
@@ -61,28 +76,19 @@ Conceito de marketplace que conecta **agricultores familiares diretamente ao con
 
 **Mobile (foco principal)**
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+[![Mobile](https://skillicons.dev/icons?i=react,ts,js,tailwind)](https://skillicons.dev)
+
+<sub>React Native com Expo e Expo Router · estilização com NativeWind (Tailwind CSS)</sub>
 
 **Backend e dados**
 
-![Go](https://img.shields.io/badge/Go_(estudando)-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=go,java,spring,postgres,mysql,docker)](https://skillicons.dev)
 
 **Ferramentas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF570A?style=flat-square)
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma)](https://skillicons.dev)
 
-<sub>Com Java e Spring Boot já construí APIs REST e CRUDs com JPA (veja os repositórios). Também já usei Python e PHP em projetos acadêmicos.</sub>
+<sub>Com Java e Spring Boot já construí APIs REST e CRUDs com JPA (veja os repositórios). Também já usei Python e PHP em projetos acadêmicos. Code review com CodeRabbit e Claude.</sub>
 
 ---
 
@@ -120,5 +126,5 @@ Trabalho na área comercial de uma grande distribuidora de eletroeletrônicos. L
 ## Agora estou
 
 - 📱 Aprofundando React Native: arquitetura de apps, testes e performance
-- 🐹 Estudando Go para construir APIs REST
+- 🐹 Construindo em Go a API do smart-todo-app e integrando com PostgreSQL
 - 🔍 Buscando oportunidade de estágio ou vaga júnior em mobile
